@@ -1,0 +1,19 @@
+body{
+    background-color: darkgrey;
+}
+
+.resource{
+    color:white;
+}
+
+.link1{
+    color:yellow;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.link2{
+    color:crimson;
+    font-size: 20px;
+    font-weight: bold;
+}
