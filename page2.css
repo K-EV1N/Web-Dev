@@ -1,0 +1,17 @@
+body{
+    background: black;
+}
+
+.titan{
+    color: white;
+}
+
+.titan-img{
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+}
+
+.list{
+    color: white;
+}
