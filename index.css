@@ -1,9 +1,13 @@
 body{
-    background-color: darkgrey;
+    background-color: black;
 }
 
 .resource{
     color:white;
+}
+
+.links{
+    color: white;
 }
 
 .link1{
