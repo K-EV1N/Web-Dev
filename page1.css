@@ -1,0 +1,58 @@
+body{
+    background: black;
+}
+
+.about-me{
+    color:white;
+}
+
+.line1{
+    color:white;
+}
+
+.cs{
+    color: lightgreen;
+}
+
+.line2{
+    color:white;
+}
+
+.line3{
+    color:white;
+}
+
+
+.img1{
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+    border-color: lightcoral;
+    border-radius: 25px;
+}
+
+.img2{
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 25px;
+}
+
+.friends{
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+    border-color: lightgreen;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.music{
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+    border-color: cyan;
+    border-radius: 20px;
+    
+}
