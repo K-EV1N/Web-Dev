@@ -1,0 +1,32 @@
+.header {
+    font-size: 50px;
+    color:deepskyblue;
+    text-shadow: -1px -2px 0 #0059ff
+}
+
+.add {
+    background-color: lightgrey;
+    border: none;
+    border-radius: 10px;
+    width: 60px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.delete {
+    background-color: lightgrey;
+    border: none;
+    border-radius: 10px;
+    width: 60px;
+    height: 50px;
+    cursor: pointer
+}
+
+.add:hover {
+    background-color: rgb(20, 222, 20);
+}
+
+.delete:hover {
+    background-color: rgb(246, 103, 103)
+}
+
