@@ -11,13 +11,23 @@ body{
 }
 
 .link1{
-    color:yellow;
+    color: white;
     font-size: 20px;
+    text-decoration: none;
     font-weight: bold;
 }
 
 .link2{
-    color:crimson;
+    color:white;
     font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+.link3 {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
     font-weight: bold;
 }
